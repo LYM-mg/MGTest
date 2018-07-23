@@ -27,5 +27,6 @@
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
     NSLog(@"大笨蛋大傻瓜");
+    
 }
 @end
