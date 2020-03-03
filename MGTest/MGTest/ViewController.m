@@ -34,4 +34,8 @@
     return YES;
 }
 
+- (void)test {
+    NSLog(@"修复某个BUG");
+}
+
 @end
