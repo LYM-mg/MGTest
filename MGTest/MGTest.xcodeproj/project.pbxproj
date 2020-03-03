@@ -14,6 +14,7 @@
 		F41F61E12105C319004563BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F41F61DF2105C319004563BD /* LaunchScreen.storyboard */; };
 		F41F61E42105C319004563BD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F41F61E32105C319004563BD /* main.m */; };
 		F4B64F16240E18B500BF8A42 /* MGTools.m in Sources */ = {isa = PBXBuildFile; fileRef = F4B64F15240E18B500BF8A42 /* MGTools.m */; };
+		F4B64F19240E1A8900BF8A42 /* MGImage.m in Sources */ = {isa = PBXBuildFile; fileRef = F4B64F18240E1A8900BF8A42 /* MGImage.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		F41F61E32105C319004563BD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F4B64F14240E18B500BF8A42 /* MGTools.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MGTools.h; sourceTree = "<group>"; };
 		F4B64F15240E18B500BF8A42 /* MGTools.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MGTools.m; sourceTree = "<group>"; };
+		F4B64F17240E1A8900BF8A42 /* MGImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MGImage.h; sourceTree = "<group>"; };
+		F4B64F18240E1A8900BF8A42 /* MGImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MGImage.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				F41F61E32105C319004563BD /* main.m */,
 				F4B64F14240E18B500BF8A42 /* MGTools.h */,
 				F4B64F15240E18B500BF8A42 /* MGTools.m */,
+				F4B64F17240E1A8900BF8A42 /* MGImage.h */,
+				F4B64F18240E1A8900BF8A42 /* MGImage.m */,
 			);
 			path = MGTest;
 			sourceTree = "<group>";
@@ -149,6 +154,7 @@
 				F41F61D92105C318004563BD /* ViewController.m in Sources */,
 				F4B64F16240E18B500BF8A42 /* MGTools.m in Sources */,
 				F41F61E42105C319004563BD /* main.m in Sources */,
+				F4B64F19240E1A8900BF8A42 /* MGImage.m in Sources */,
 				F41F61D62105C318004563BD /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
