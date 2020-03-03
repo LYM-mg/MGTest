@@ -29,4 +29,9 @@
     NSLog(@"大笨蛋大傻瓜");
     NSLog(@"修复某个BUG");
 }
+
+- (BOOL)hidesBottomBarWhenPushed {
+    return YES;
+}
+
 @end
