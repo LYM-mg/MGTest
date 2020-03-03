@@ -13,6 +13,7 @@
 		F41F61DE2105C319004563BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F41F61DD2105C319004563BD /* Assets.xcassets */; };
 		F41F61E12105C319004563BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F41F61DF2105C319004563BD /* LaunchScreen.storyboard */; };
 		F41F61E42105C319004563BD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F41F61E32105C319004563BD /* main.m */; };
+		F4B64F1C240E1B5400BF8A42 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F4B64F1B240E1B5400BF8A42 /* OneViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		F41F61E02105C319004563BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F41F61E22105C319004563BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F41F61E32105C319004563BD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F4B64F1A240E1B5400BF8A42 /* OneViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
+		F4B64F1B240E1B5400BF8A42 /* OneViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				F41F61DF2105C319004563BD /* LaunchScreen.storyboard */,
 				F41F61E22105C319004563BD /* Info.plist */,
 				F41F61E32105C319004563BD /* main.m */,
+				F4B64F1A240E1B5400BF8A42 /* OneViewController.h */,
+				F4B64F1B240E1B5400BF8A42 /* OneViewController.m */,
 			);
 			path = MGTest;
 			sourceTree = "<group>";
@@ -144,6 +149,7 @@
 				F41F61D92105C318004563BD /* ViewController.m in Sources */,
 				F41F61E42105C319004563BD /* main.m in Sources */,
 				F41F61D62105C318004563BD /* AppDelegate.m in Sources */,
+				F4B64F1C240E1B5400BF8A42 /* OneViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
