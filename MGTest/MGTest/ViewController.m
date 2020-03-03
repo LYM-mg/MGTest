@@ -53,4 +53,8 @@
     NSLog(@"a擦行间了个人主页");
 }
 
+
+- (void)click {
+    NSLog(@"新增了点击方法");
+}
 @end
