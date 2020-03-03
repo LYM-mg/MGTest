@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    [self ssss];
 }
 
 
@@ -33,4 +34,7 @@
 - (void)ssss {
     NSLog(@"新增了 三生三世方法");
 }
+
+
+
 @end
