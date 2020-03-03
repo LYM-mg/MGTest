@@ -45,4 +45,12 @@
     NSLog(@"修复某个BUG");
 }
 
+- (void)find {
+    NSLog(@"找到了某个笨蛋");
+}
+
+- (void)f么 {
+    NSLog(@"a擦行间了个人主页");
+}
+
 @end
