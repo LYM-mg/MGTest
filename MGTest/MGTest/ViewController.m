@@ -29,4 +29,8 @@
     NSLog(@"大笨蛋大傻瓜");
     NSLog(@"修复某个BUG");
 }
+
+- (void)ssss {
+    NSLog(@"新增了 三生三世方法");
+}
 @end
