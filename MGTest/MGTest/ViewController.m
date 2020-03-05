@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "MGTest-Swift.h"
 
 @interface ViewController ()
 
@@ -29,6 +30,12 @@
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
     NSLog(@"大笨蛋大傻瓜");
     NSLog(@"修复某个BUG");
+    
+//    TeacherShareView 
+//    TeacherShareView *shareView1 = [TeacherShareView loadFromNib];
+//    shareView1.updateUI()
+//    shareView1.center =  UIApplication.shared.keyWindow!.center
+//    UIApplication.shared.keyWindow?.addSubview(shareView1)
 }
 
 
